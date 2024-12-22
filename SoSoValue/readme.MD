@@ -64,7 +64,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   "howManyAccountsRunInOneTime": 100,
   "doTasks": true,
   "playGames": true,
-  "referralCode": ""
+  "referralCode": "K40N4U76"
 }
 ```
 
