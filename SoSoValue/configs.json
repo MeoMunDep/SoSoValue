@@ -1,0 +1,13 @@
+{
+  "timeZone": "en-US",
+  "rotateProxy": false,
+  "skipInvalidProxy": false,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 81],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
+  "doTasks": true,
+  "playGames": true,
+  "referralCode": "K40N4U76",
+  "howManyUpgrades": 5
+}
