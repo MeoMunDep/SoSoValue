@@ -91,6 +91,16 @@ query_id.../user...
 query_id.../user...
 ```
 
+### 2.1 `tokens.txt` - 🗂️ User Data
+- [Get it from here](https://t.me/KeoAirDropFreeNee/1622)
+
+
+```txt
+ey...
+ey...
+ey...
+```
+
 _Note: Each row for each account_
 
 ### 3. `wallets.txt` - 💼 Wallet Addresses
@@ -135,6 +145,11 @@ _Note: each row for each account_
 2. Run the bot using the following command:
    ```bash
    node meomundep
+   ```
+
+   or
+   ```bash
+   node web_meomundep
    ```
 
 ---
