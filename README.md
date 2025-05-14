@@ -154,7 +154,7 @@ _Note: each row for each account_
 
 ## Contact and Support
 
-- **Help me with your referral** [Web Referral Link](https://sosovalue.com/join/4WQ56DQ2)
+- **Help me with your referral** [Web Referral Link](https://sosovalue.com/join/4WQ56DQ2) - [Telegram version](https://t.me/SoSoValue_bot/sosovalue?startapp=3-K40N4U76)
 - **Buy me a telegram account** [Here](https://t.me/KeoAirDropFreeNe/312/27801) or [Here](https://github.com/MeoMunDep/MeoMunDep)
 
 If you encounter any issues or have questions, feel free to reach out:
