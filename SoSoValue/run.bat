@@ -19,11 +19,11 @@ echo Checking dependencies...
 if exist "..\node_modules" (
     echo Using node_modules from parent directory...
     cd ..
-    CALL npm install --no-audit --no-fund --prefer-offline --force  user-agents axios colors https-proxy-agent socks-proxy-agent 
+    CALL npm install --no-audit --no-fund --prefer-offline --force  user-agents axios colors https-proxy-agent socks-proxy-agent @google/genai
     cd %~dp0
 ) else (
     echo Installing dependencies in current directory...
-    CALL npm install --no-audit --no-fund --prefer-offline --force  user-agents axios colors https-proxy-agent socks-proxy-agent 
+    CALL npm install --no-audit --no-fund --prefer-offline --force  user-agents axios colors https-proxy-agent socks-proxy-agent @google/genai
 )
 echo Dependencies installation completed!
 
