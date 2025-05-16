@@ -8,5 +8,6 @@
   "doTasks": true,
   "playGames": true,
   "referralCode": "K40N4U76",
-  "howManyUpgrades": 5
+  "howManyUpgrades": 5,
+  "geminiApiKey":""
 }
