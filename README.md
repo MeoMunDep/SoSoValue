@@ -82,6 +82,11 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `referralCode`: Add your referral code (optional). Do not change it if you want to support me ^^
   - `geminiApiKey`: Gemini API key for creating post
 
+  * Get geminiApiKey from here: [Link](https://aistudio.google.com/app/apikey)
+
+  ![GEMINI_API_KEY](https://github.com/MeoMunDep/sosovalue/blob/main/sosovalue/IMAGE/GEMINI_API_KEY.png?raw=true)
+
+
 ### 2. `datas.txt` - 🗂️ User Data
 - [Get it from here](https://t.me/KeoAirDropFreeNee/1586)
 
