@@ -84,7 +84,7 @@ This file controls the bot’s behavior. Below is an example configuration:
 
   * Get geminiApiKey from here: [Link](https://aistudio.google.com/app/apikey)
 
-  ![GEMINI_API_KEY](https://github.com/MeoMunDep/sosovalue/blob/main/sosovalue/IMAGE/GEMINI_API_KEY.png?raw=true)
+  ![GEMINI_API_KEY](https://github.com/MeoMunDep/SoSoValue/blob/main/SoSoValue/IMAGE/GEMINI_API_KEY.png?raw=true)
 
 
 ### 2. `datas.txt` - 🗂️ User Data
