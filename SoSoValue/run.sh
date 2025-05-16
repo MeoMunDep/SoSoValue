@@ -69,7 +69,6 @@ check_git
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "timeZone": "en-US",
   "rotateProxy": false,
   "skipInvalidProxy": false,
   "proxyRotationInterval": 2,
@@ -79,7 +78,8 @@ create_default_configs() {
   "doTasks": true,
   "playGames": true,
   "referralCode": "K40N4U76",
-  "howManyUpgrades": 5
+  "howManyUpgrades": 5,
+  "geminiApiKey":""
 }
 EOL
 }
