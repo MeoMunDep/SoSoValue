@@ -1,5 +1,5 @@
 @echo off
-title SoSoValue Bot by @MeoMunDep
+title SoSoValue Web Bot by @MeoMunDep
 color 0A
 
 cd %~dp0
@@ -28,7 +28,7 @@ if exist "..\node_modules" (
 echo Dependencies installation completed!
 
 echo Starting the bot...
-node meomundep
+node web_meomundep.js
 
 pause
 exit
