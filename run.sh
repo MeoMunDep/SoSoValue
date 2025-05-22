@@ -7,7 +7,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' 
 
-echo -ne "\033]0;SoSoValue Bot by @MeoMunDep\007"
+echo -ne "\033]0;SoSoValue Web Bot by @MeoMunDep\007"
 
 
 print_green() {
@@ -116,4 +116,4 @@ cd - > /dev/null
 print_green "Dependencies installation completed!"
 
 print_green "Starting the bot..."
-node meomundep
+node web_meomundep.js
