@@ -111,7 +111,7 @@ print_green "Configuration files have been checked."
 
 print_yellow "Checking dependencies..."
 cd "$MODULES_DIR"
-npm install --no-audit --no-fund --prefer-offline --force user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent @google/genai
+npm install --no-audit --no-fund --prefer-offline --force 
 cd - > /dev/null
 print_green "Dependencies installation completed!"
 
