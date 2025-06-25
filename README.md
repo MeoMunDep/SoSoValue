@@ -4,7 +4,7 @@ Welcome to the bot setup guide! Follow the steps below to install and configure 
 
 > 📱 **For Mobile Users (Termux):** [View the guide here](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
----
+
 
 <details>
 <summary><strong>📌 Table of Contents</strong></summary>
@@ -17,7 +17,7 @@ Welcome to the bot setup guide! Follow the steps below to install and configure 
 
 </details>
 
----
+
 
 <details>
 <summary><strong>🔧 Prerequisites</strong></summary>
@@ -30,7 +30,7 @@ Download: [Download Link](https://t.me/KeoAirDropFreeNe/257/1462)
 
 </details>
 
----
+
 
 <details>
 <summary><strong>📥 Installation Steps</strong></summary>
@@ -48,7 +48,7 @@ npm install
 
 </details>
 
----
+
 
 <details>
 <summary><strong>⚙️ Configuration Files</strong></summary>
@@ -74,7 +74,7 @@ npm install
 Get Gemini API Key: [Link](https://aistudio.google.com/app/apikey)
 ![GEMINI\_API\_KEY](https://github.com/MeoMunDep/SoSoValue/blob/main/SoSoValue/IMAGE/GEMINI_API_KEY.png?raw=true)
 
----
+
 
 ### 2. `datas.txt` – User Data
 
@@ -84,7 +84,7 @@ Get Gemini API Key: [Link](https://aistudio.google.com/app/apikey)
 query_id.../user...
 ```
 
----
+
 
 ### 2.1 `tokens.txt` – Token List
 
@@ -94,7 +94,7 @@ query_id.../user...
 ey...
 ```
 
----
+
 
 ### 3. `wallets.txt` – Wallet Addresses
 
@@ -104,7 +104,7 @@ ey...
 abc...xyz
 ```
 
----
+
 
 ### 4. `proxies.txt` – Proxy List
 
@@ -117,7 +117,7 @@ socks5://user:pass@host:port
 
 </details>
 
----
+
 
 <details>
 <summary><strong>▶️ Running the Bot</strong></summary>
@@ -142,7 +142,7 @@ node web_meomundep
 
 </details>
 
----
+
 
 <details>
 <summary><strong>📞 Contact and Support</strong></summary>
@@ -155,7 +155,7 @@ node web_meomundep
 
 </details>
 
----
+
 
 ✅ **Enjoy using the bot!**
 
