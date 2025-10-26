@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "@google/genai": "^1.0.1",
-    "axios": "^1.9.0",
-    "https-proxy-agent": "^7.0.6",
-    "meo-forkcy-colors": "^1.0.9",
-    "meo-forkcy-utils": "^1.0.1",
-    "socks-proxy-agent": "^8.0.5",
-    "user-agents": "^1.1.518"
+    "axios": "latest",
+    "meo-forkcy-colors": "latest",
+    "meo-forkcy-utils": "latest",
+    "meo-forkcy-proxy": "latest",
+    "meo-forkcy-logger": "latest",
+    "user-agents": "latest"
   }
 }
