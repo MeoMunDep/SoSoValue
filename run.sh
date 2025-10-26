@@ -100,7 +100,7 @@ fi
 
 check_configs
 
-for file in datas.txt tokens.txt proxies.txt; do
+for file in tokens.txt proxies.txt; do
     if [ ! -f "$file" ]; then
         touch "$file"
         print_green "Created $file"
