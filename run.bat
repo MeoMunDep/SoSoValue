@@ -6,7 +6,7 @@ cd %~dp0
 
 echo Checking configuration files...
 
-(for %%F in (datas.txt tokens.txt proxies.txt) do (
+(for %%F in (tokens.txt proxies.txt) do (
     if not exist %%F (
         type nul > %%F
         echo Created %%F
