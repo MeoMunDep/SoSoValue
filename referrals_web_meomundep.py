@@ -1,1 +1,0 @@
-print(f"Contact me to buy this version: https://t.me/meomundep")
